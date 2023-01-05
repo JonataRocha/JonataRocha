@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm JonataRocha</h1>
-<h3 align="center">Apaixonado por Tecnologia. 👾🤖🐱‍💻</h3>
+<h3 align="center">Passionate about technology. 👾🤖🐱‍💻</h3>
 
 <p align="rigth"> <img src="https://gpvc.arturio.dev/JonataRocha" alt="JonataRocha" /> </p>
 <hr/>
@@ -11,23 +11,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JonataRocha](https://github.com/JonataRocha)
 
-- 💬 Ask me about: **©, Java, ₿anco de Dados**
+- 💬 Ask me about: **©, Java**
 
 <hr/>
-
-<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 <br>
 <h2>Skills</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,linux" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,c,java,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,linux,java,c,mysql" />
   </a>
 </p>
 
