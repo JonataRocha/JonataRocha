@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Java**
 
 - 🐾 I’m looking to network and make friends here! <br><br><br>
-
 - 👨‍💻 All of my projects are available at [https://github.com/JonataRocha](https://github.com/JonataRocha)
 
 - 💬 Ask me about: **©, Java**
